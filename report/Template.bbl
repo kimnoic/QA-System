@@ -1,0 +1,18 @@
+\begin{thebibliography}{10}
+
+\bibitem{adlt}
+Minwei Feng, Bing Xiang, Michael R. Glass, Lidan Wang, Bowen Zhou,
+\newblock ``APPLYING DEEP LEARNING TO ANSWER SELECTION: A STUDY AND AN OPEN TASK,''
+\newblock {\em ASRU},in the proceedings of ASRU 2015.
+
+\bibitem{git}
+感谢white127 ,
+\newblock https://github.com/white127/insuranceQA-cnn-lstm
+\newblock 我们参考了他写的cnn网络,并对一些参数做出了调整.
+
+\bibitem{adam}
+Diederik P.Kingma , Jimmy Lei Ba,
+\newblock ``ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION''
+\newblock {\em ICLR},Published as a conference paper at ICLR 2015.
+
+
